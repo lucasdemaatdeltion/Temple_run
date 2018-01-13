@@ -15,11 +15,14 @@ public class Movement : MonoBehaviour
     public float jumpPower;
     private bool grounded;
     private RaycastHit hit;
+    public bool uiTutorial;
 
     public void OnTriggerStay(Collider other)
     {
+        uiTutorial = true;
         if (other.tag == "Waypoint")
         {
+            
             if (f == -1)
             {
                 i = -1;
@@ -36,8 +39,10 @@ public class Movement : MonoBehaviour
 
     public void OnTriggerExit(Collider other)
     {
+        uiTutorial = false;
         if (other.tag == "Waypoint")
         {
+            
             if (i == -1)
             {
                 StartCoroutine(Rotate(Vector3.up, -90, 0.3f));
@@ -79,7 +84,7 @@ public class Movement : MonoBehaviour
             grounded = false;
         }
 
-        if (Input.GetButton("Shift") && grounded == true)
+        if (Input.GetButtonDown("Shift") && grounded == true)
         {
             slide = true;
             anim.SetBool("sliding", slide);
