@@ -16,28 +16,37 @@ public class Movement : MonoBehaviour
     private bool grounded;
     private RaycastHit hit;
     public bool uiTutorial;
+    private bool axisInUse = false;
 
-    public void OnTriggerStay(Collider other)
+    public void Update()
     {
         uiTutorial = true;
-        if (other.tag == "Waypoint")
         {
-            
             if (f == -1)
             {
-                i = -1;
+                if(axisInUse == false)
+                {
+                    axisInUse = true;
+                    i = -1;
+                }
+                
             }
 
             else if (f == 1)
             {
-                i = 1;
+                if (axisInUse == false)
+                {
+                    axisInUse = true;
+                    i = 1;
+                }
+                
             }
 
         }
 
     }
 
-    public void OnTriggerExit(Collider other)
+    public void OnTriggerEnter(Collider other)
     {
         uiTutorial = false;
         if (other.tag == "Waypoint")
@@ -53,6 +62,15 @@ public class Movement : MonoBehaviour
             }
             i = 0;
         }
+    }
+
+    public void OnTriggerExit(Collider other)
+    {
+        if (other.tag == "Waypoint")
+        {
+            axisInUse = false;
+        }
+            
     }
 
 

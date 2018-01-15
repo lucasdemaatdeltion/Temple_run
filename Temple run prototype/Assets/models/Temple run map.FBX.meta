@@ -1,0 +1,1788 @@
+fileFormatVersion: 2
+guid: a5dac890b4bf8794ea22a724eb1db61d
+timeCreated: 1516040829
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box055
+    100002: Box056
+    100004: Box057
+    100006: Box058
+    100008: Box059
+    100010: Box060
+    100012: Box061
+    100014: Box062
+    100016: Box063
+    100018: Box064
+    100020: Box065
+    100022: Box066
+    100024: Box067
+    100026: Box068
+    100028: Box069
+    100030: Box070
+    100032: Box071
+    100034: Box072
+    100036: Box073
+    100038: Box074
+    100040: Box075
+    100042: Box076
+    100044: Box077
+    100046: Box078
+    100048: Box079
+    100050: Box080
+    100052: Box081
+    100054: Box082
+    100056: Box083
+    100058: Box084
+    100060: Box085
+    100062: Box086
+    100064: Box087
+    100066: Box088
+    100068: Box089
+    100070: Box090
+    100072: Box091
+    100074: Box092
+    100076: Box093
+    100078: Box094
+    100080: Box095
+    100082: Box096
+    100084: Box097
+    100086: Box098
+    100088: Box099
+    100090: Box100
+    100092: Box101
+    100094: Box102
+    100096: Box103
+    100098: Box104
+    100100: Box105
+    100102: Box106
+    100104: Box107
+    100106: Box108
+    100108: Box109
+    100110: Box110
+    100112: Box111
+    100114: Box112
+    100116: Box113
+    100118: Box114
+    100120: Box115
+    100122: Box116
+    100124: Box117
+    100126: Box118
+    100128: Box119
+    100130: Box120
+    100132: Box121
+    100134: Box122
+    100136: Box123
+    100138: Box124
+    100140: Box125
+    100142: Box126
+    100144: Box127
+    100146: Box128
+    100148: Box129
+    100150: Box130
+    100152: Box131
+    100154: Box132
+    100156: Box133
+    100158: Box134
+    100160: Box135
+    100162: Box136
+    100164: Box137
+    100166: Box138
+    100168: Box139
+    100170: Box140
+    100172: Box141
+    100174: Box142
+    100176: Box143
+    100178: Box144
+    100180: Box145
+    100182: Box146
+    100184: Box147
+    100186: Box148
+    100188: Box149
+    100190: Box150
+    100192: Box151
+    100194: Door frame001
+    100196: Door frame002
+    100198: Door frame003
+    100200: Door frame004
+    100202: Door frame006
+    100204: Door frame007
+    100206: Door frame008
+    100208: Door frame009
+    100210: Door frame010
+    100212: Door frame011
+    100214: Door frame012
+    100216: Door frame013
+    100218: Door frame014
+    100220: Door frame015
+    100222: Door frame016
+    100224: Door left001
+    100226: Door left002
+    100228: Door left003
+    100230: Door left004
+    100232: Door right001
+    100234: Door right002
+    100236: Door right003
+    100238: Door right004
+    100240: Object001
+    100242: Object002
+    100244: Object003
+    100246: Object004
+    100248: Object005
+    100250: Object006
+    100252: Object007
+    100254: Object008
+    100256: Object009
+    100258: Object010
+    100260: Object011
+    100262: Object012
+    100264: Object013
+    100266: Object014
+    100268: Object015
+    100270: Object016
+    100272: Object017
+    100274: Object018
+    100276: Object019
+    100278: Object020
+    100280: Object021
+    100282: Object022
+    100284: Object023
+    100286: Object024
+    100288: Object025
+    100290: Object026
+    100292: Object027
+    100294: Object028
+    100296: Object029
+    100298: Object030
+    100300: Object031
+    100302: Object032
+    100304: Object033
+    100306: Object034
+    100308: Object035
+    100310: Object036
+    100312: Object037
+    100314: Object038
+    100316: Object039
+    100318: Object040
+    100320: Object041
+    100322: Object042
+    100324: Object043
+    100326: Object044
+    100328: Object045
+    100330: Object046
+    100332: Object047
+    100334: Object048
+    100336: Object049
+    100338: Object050
+    100340: Object051
+    100342: Object052
+    100344: Object053
+    100346: Object054
+    100348: Object055
+    100350: Object056
+    100352: Object057
+    100354: Object058
+    100356: Object059
+    100358: Object060
+    100360: Object061
+    100362: Object062
+    100364: Object063
+    100366: Object064
+    100368: Object065
+    100370: Object066
+    100372: Object067
+    100374: Object068
+    100376: Object069
+    100378: Object070
+    100380: Object071
+    100382: Object072
+    100384: Object073
+    100386: Object074
+    100388: Object075
+    100390: Object076
+    100392: Object077
+    100394: Object078
+    100396: Object079
+    100398: Object080
+    100400: Object081
+    100402: Object082
+    100404: Object083
+    100406: Object084
+    100408: Object085
+    100410: Object086
+    100412: Object087
+    100414: Object088
+    100416: Object089
+    100418: Object090
+    100420: Object091
+    100422: Object092
+    100424: Object093
+    100426: Object094
+    100428: Object095
+    100430: Object096
+    100432: Object097
+    100434: Object098
+    100436: Object099
+    100438: Object100
+    100440: Object101
+    100442: Object102
+    100444: Object103
+    100446: Object104
+    100448: Object105
+    100450: Object106
+    100452: Object107
+    100454: Object108
+    100456: Object109
+    100458: Object110
+    100460: Object111
+    100462: Object112
+    100464: Object113
+    100466: Object114
+    100468: Object115
+    100470: Object116
+    100472: Object117
+    100474: Object118
+    100476: Object119
+    100478: Object120
+    100480: Object121
+    100482: Object122
+    100484: Object123
+    100486: Object124
+    100488: Object125
+    100490: Object126
+    100492: Object127
+    100494: Object128
+    100496: Object129
+    100498: Object130
+    100500: Object131
+    100502: Object132
+    100504: Object133
+    100506: Object134
+    100508: Object135
+    100510: Object136
+    100512: Object137
+    100514: Object138
+    100516: Object139
+    100518: Object140
+    100520: Object141
+    100522: Object142
+    100524: Object143
+    100526: Object144
+    100528: Object145
+    100530: Object146
+    100532: Object147
+    100534: Object148
+    100536: Object149
+    100538: Object150
+    100540: Object151
+    100542: Object152
+    100544: Object153
+    100546: Object154
+    100548: Object155
+    100550: Object156
+    100552: Object157
+    100554: Object158
+    100556: Object159
+    100558: Object160
+    100560: Object161
+    100562: Object162
+    100564: Object163
+    100566: Object164
+    100568: Object165
+    100570: Object166
+    100572: Object167
+    100574: Object168
+    100576: Object169
+    100578: Object170
+    100580: Object171
+    100582: Object172
+    100584: Object173
+    100586: Object174
+    100588: Object175
+    100590: Object176
+    100592: Object177
+    100594: Object178
+    100596: Object179
+    100598: Object180
+    100600: Object181
+    100602: Object182
+    100604: Object183
+    100606: Object184
+    100608: Object185
+    100610: Object186
+    100612: Object187
+    100614: Object188
+    100616: Object189
+    100618: Object190
+    100620: Object191
+    100622: Object192
+    100624: Object193
+    100626: Object194
+    100628: Object195
+    100630: Object196
+    100632: Object197
+    100634: Object198
+    100636: Object199
+    100638: Object200
+    100640: Object201
+    100642: Object202
+    100644: Object203
+    100646: Object204
+    100648: //RootNode
+    100650: Wall back001
+    100652: Wall back002
+    100654: Wall back003
+    100656: Wall back004
+    100658: Wall front001
+    100660: Wall front002
+    100662: Wall front003
+    100664: Wall front004
+    400000: Box055
+    400002: Box056
+    400004: Box057
+    400006: Box058
+    400008: Box059
+    400010: Box060
+    400012: Box061
+    400014: Box062
+    400016: Box063
+    400018: Box064
+    400020: Box065
+    400022: Box066
+    400024: Box067
+    400026: Box068
+    400028: Box069
+    400030: Box070
+    400032: Box071
+    400034: Box072
+    400036: Box073
+    400038: Box074
+    400040: Box075
+    400042: Box076
+    400044: Box077
+    400046: Box078
+    400048: Box079
+    400050: Box080
+    400052: Box081
+    400054: Box082
+    400056: Box083
+    400058: Box084
+    400060: Box085
+    400062: Box086
+    400064: Box087
+    400066: Box088
+    400068: Box089
+    400070: Box090
+    400072: Box091
+    400074: Box092
+    400076: Box093
+    400078: Box094
+    400080: Box095
+    400082: Box096
+    400084: Box097
+    400086: Box098
+    400088: Box099
+    400090: Box100
+    400092: Box101
+    400094: Box102
+    400096: Box103
+    400098: Box104
+    400100: Box105
+    400102: Box106
+    400104: Box107
+    400106: Box108
+    400108: Box109
+    400110: Box110
+    400112: Box111
+    400114: Box112
+    400116: Box113
+    400118: Box114
+    400120: Box115
+    400122: Box116
+    400124: Box117
+    400126: Box118
+    400128: Box119
+    400130: Box120
+    400132: Box121
+    400134: Box122
+    400136: Box123
+    400138: Box124
+    400140: Box125
+    400142: Box126
+    400144: Box127
+    400146: Box128
+    400148: Box129
+    400150: Box130
+    400152: Box131
+    400154: Box132
+    400156: Box133
+    400158: Box134
+    400160: Box135
+    400162: Box136
+    400164: Box137
+    400166: Box138
+    400168: Box139
+    400170: Box140
+    400172: Box141
+    400174: Box142
+    400176: Box143
+    400178: Box144
+    400180: Box145
+    400182: Box146
+    400184: Box147
+    400186: Box148
+    400188: Box149
+    400190: Box150
+    400192: Box151
+    400194: Door frame001
+    400196: Door frame002
+    400198: Door frame003
+    400200: Door frame004
+    400202: Door frame006
+    400204: Door frame007
+    400206: Door frame008
+    400208: Door frame009
+    400210: Door frame010
+    400212: Door frame011
+    400214: Door frame012
+    400216: Door frame013
+    400218: Door frame014
+    400220: Door frame015
+    400222: Door frame016
+    400224: Door left001
+    400226: Door left002
+    400228: Door left003
+    400230: Door left004
+    400232: Door right001
+    400234: Door right002
+    400236: Door right003
+    400238: Door right004
+    400240: Object001
+    400242: Object002
+    400244: Object003
+    400246: Object004
+    400248: Object005
+    400250: Object006
+    400252: Object007
+    400254: Object008
+    400256: Object009
+    400258: Object010
+    400260: Object011
+    400262: Object012
+    400264: Object013
+    400266: Object014
+    400268: Object015
+    400270: Object016
+    400272: Object017
+    400274: Object018
+    400276: Object019
+    400278: Object020
+    400280: Object021
+    400282: Object022
+    400284: Object023
+    400286: Object024
+    400288: Object025
+    400290: Object026
+    400292: Object027
+    400294: Object028
+    400296: Object029
+    400298: Object030
+    400300: Object031
+    400302: Object032
+    400304: Object033
+    400306: Object034
+    400308: Object035
+    400310: Object036
+    400312: Object037
+    400314: Object038
+    400316: Object039
+    400318: Object040
+    400320: Object041
+    400322: Object042
+    400324: Object043
+    400326: Object044
+    400328: Object045
+    400330: Object046
+    400332: Object047
+    400334: Object048
+    400336: Object049
+    400338: Object050
+    400340: Object051
+    400342: Object052
+    400344: Object053
+    400346: Object054
+    400348: Object055
+    400350: Object056
+    400352: Object057
+    400354: Object058
+    400356: Object059
+    400358: Object060
+    400360: Object061
+    400362: Object062
+    400364: Object063
+    400366: Object064
+    400368: Object065
+    400370: Object066
+    400372: Object067
+    400374: Object068
+    400376: Object069
+    400378: Object070
+    400380: Object071
+    400382: Object072
+    400384: Object073
+    400386: Object074
+    400388: Object075
+    400390: Object076
+    400392: Object077
+    400394: Object078
+    400396: Object079
+    400398: Object080
+    400400: Object081
+    400402: Object082
+    400404: Object083
+    400406: Object084
+    400408: Object085
+    400410: Object086
+    400412: Object087
+    400414: Object088
+    400416: Object089
+    400418: Object090
+    400420: Object091
+    400422: Object092
+    400424: Object093
+    400426: Object094
+    400428: Object095
+    400430: Object096
+    400432: Object097
+    400434: Object098
+    400436: Object099
+    400438: Object100
+    400440: Object101
+    400442: Object102
+    400444: Object103
+    400446: Object104
+    400448: Object105
+    400450: Object106
+    400452: Object107
+    400454: Object108
+    400456: Object109
+    400458: Object110
+    400460: Object111
+    400462: Object112
+    400464: Object113
+    400466: Object114
+    400468: Object115
+    400470: Object116
+    400472: Object117
+    400474: Object118
+    400476: Object119
+    400478: Object120
+    400480: Object121
+    400482: Object122
+    400484: Object123
+    400486: Object124
+    400488: Object125
+    400490: Object126
+    400492: Object127
+    400494: Object128
+    400496: Object129
+    400498: Object130
+    400500: Object131
+    400502: Object132
+    400504: Object133
+    400506: Object134
+    400508: Object135
+    400510: Object136
+    400512: Object137
+    400514: Object138
+    400516: Object139
+    400518: Object140
+    400520: Object141
+    400522: Object142
+    400524: Object143
+    400526: Object144
+    400528: Object145
+    400530: Object146
+    400532: Object147
+    400534: Object148
+    400536: Object149
+    400538: Object150
+    400540: Object151
+    400542: Object152
+    400544: Object153
+    400546: Object154
+    400548: Object155
+    400550: Object156
+    400552: Object157
+    400554: Object158
+    400556: Object159
+    400558: Object160
+    400560: Object161
+    400562: Object162
+    400564: Object163
+    400566: Object164
+    400568: Object165
+    400570: Object166
+    400572: Object167
+    400574: Object168
+    400576: Object169
+    400578: Object170
+    400580: Object171
+    400582: Object172
+    400584: Object173
+    400586: Object174
+    400588: Object175
+    400590: Object176
+    400592: Object177
+    400594: Object178
+    400596: Object179
+    400598: Object180
+    400600: Object181
+    400602: Object182
+    400604: Object183
+    400606: Object184
+    400608: Object185
+    400610: Object186
+    400612: Object187
+    400614: Object188
+    400616: Object189
+    400618: Object190
+    400620: Object191
+    400622: Object192
+    400624: Object193
+    400626: Object194
+    400628: Object195
+    400630: Object196
+    400632: Object197
+    400634: Object198
+    400636: Object199
+    400638: Object200
+    400640: Object201
+    400642: Object202
+    400644: Object203
+    400646: Object204
+    400648: //RootNode
+    400650: Wall back001
+    400652: Wall back002
+    400654: Wall back003
+    400656: Wall back004
+    400658: Wall front001
+    400660: Wall front002
+    400662: Wall front003
+    400664: Wall front004
+    2300000: Box055
+    2300002: Box056
+    2300004: Box057
+    2300006: Box058
+    2300008: Box059
+    2300010: Box060
+    2300012: Box061
+    2300014: Box062
+    2300016: Box063
+    2300018: Box064
+    2300020: Box065
+    2300022: Box066
+    2300024: Box067
+    2300026: Box068
+    2300028: Box069
+    2300030: Box070
+    2300032: Box071
+    2300034: Box072
+    2300036: Box073
+    2300038: Box074
+    2300040: Box075
+    2300042: Box076
+    2300044: Box077
+    2300046: Box078
+    2300048: Box079
+    2300050: Box080
+    2300052: Box081
+    2300054: Box082
+    2300056: Box083
+    2300058: Box084
+    2300060: Box085
+    2300062: Box086
+    2300064: Box087
+    2300066: Box088
+    2300068: Box089
+    2300070: Box090
+    2300072: Box091
+    2300074: Box092
+    2300076: Box093
+    2300078: Box094
+    2300080: Box095
+    2300082: Box096
+    2300084: Box097
+    2300086: Box098
+    2300088: Box099
+    2300090: Box100
+    2300092: Box101
+    2300094: Box102
+    2300096: Box103
+    2300098: Box104
+    2300100: Box105
+    2300102: Box106
+    2300104: Box107
+    2300106: Box108
+    2300108: Box109
+    2300110: Box110
+    2300112: Box111
+    2300114: Box112
+    2300116: Box113
+    2300118: Box114
+    2300120: Box115
+    2300122: Box116
+    2300124: Box117
+    2300126: Box118
+    2300128: Box119
+    2300130: Box120
+    2300132: Box121
+    2300134: Box122
+    2300136: Box123
+    2300138: Box124
+    2300140: Box125
+    2300142: Box126
+    2300144: Box127
+    2300146: Box128
+    2300148: Box129
+    2300150: Box130
+    2300152: Box131
+    2300154: Box132
+    2300156: Box133
+    2300158: Box134
+    2300160: Box135
+    2300162: Box136
+    2300164: Box137
+    2300166: Box138
+    2300168: Box139
+    2300170: Box140
+    2300172: Box141
+    2300174: Box142
+    2300176: Box143
+    2300178: Box144
+    2300180: Box145
+    2300182: Box146
+    2300184: Box147
+    2300186: Box148
+    2300188: Box149
+    2300190: Box150
+    2300192: Box151
+    2300194: Door frame001
+    2300196: Door frame002
+    2300198: Door frame003
+    2300200: Door frame004
+    2300202: Door frame006
+    2300204: Door frame007
+    2300206: Door frame008
+    2300208: Door frame009
+    2300210: Door frame010
+    2300212: Door frame011
+    2300214: Door frame012
+    2300216: Door frame013
+    2300218: Door frame014
+    2300220: Door frame015
+    2300222: Door frame016
+    2300224: Door left001
+    2300226: Door left002
+    2300228: Door left003
+    2300230: Door left004
+    2300232: Door right001
+    2300234: Door right002
+    2300236: Door right003
+    2300238: Door right004
+    2300240: Object001
+    2300242: Object002
+    2300244: Object003
+    2300246: Object004
+    2300248: Object005
+    2300250: Object006
+    2300252: Object007
+    2300254: Object008
+    2300256: Object009
+    2300258: Object010
+    2300260: Object011
+    2300262: Object012
+    2300264: Object013
+    2300266: Object014
+    2300268: Object015
+    2300270: Object016
+    2300272: Object017
+    2300274: Object018
+    2300276: Object019
+    2300278: Object020
+    2300280: Object021
+    2300282: Object022
+    2300284: Object023
+    2300286: Object024
+    2300288: Object025
+    2300290: Object026
+    2300292: Object027
+    2300294: Object028
+    2300296: Object029
+    2300298: Object030
+    2300300: Object031
+    2300302: Object032
+    2300304: Object033
+    2300306: Object034
+    2300308: Object035
+    2300310: Object036
+    2300312: Object037
+    2300314: Object038
+    2300316: Object039
+    2300318: Object040
+    2300320: Object041
+    2300322: Object042
+    2300324: Object043
+    2300326: Object044
+    2300328: Object045
+    2300330: Object046
+    2300332: Object047
+    2300334: Object048
+    2300336: Object049
+    2300338: Object050
+    2300340: Object051
+    2300342: Object052
+    2300344: Object053
+    2300346: Object054
+    2300348: Object055
+    2300350: Object056
+    2300352: Object057
+    2300354: Object058
+    2300356: Object059
+    2300358: Object060
+    2300360: Object061
+    2300362: Object062
+    2300364: Object063
+    2300366: Object064
+    2300368: Object065
+    2300370: Object066
+    2300372: Object067
+    2300374: Object068
+    2300376: Object069
+    2300378: Object070
+    2300380: Object071
+    2300382: Object072
+    2300384: Object073
+    2300386: Object074
+    2300388: Object075
+    2300390: Object076
+    2300392: Object077
+    2300394: Object078
+    2300396: Object079
+    2300398: Object080
+    2300400: Object081
+    2300402: Object082
+    2300404: Object083
+    2300406: Object084
+    2300408: Object085
+    2300410: Object086
+    2300412: Object087
+    2300414: Object088
+    2300416: Object089
+    2300418: Object090
+    2300420: Object091
+    2300422: Object092
+    2300424: Object093
+    2300426: Object094
+    2300428: Object095
+    2300430: Object096
+    2300432: Object097
+    2300434: Object098
+    2300436: Object099
+    2300438: Object100
+    2300440: Object101
+    2300442: Object102
+    2300444: Object103
+    2300446: Object104
+    2300448: Object105
+    2300450: Object106
+    2300452: Object107
+    2300454: Object108
+    2300456: Object109
+    2300458: Object110
+    2300460: Object111
+    2300462: Object112
+    2300464: Object113
+    2300466: Object114
+    2300468: Object115
+    2300470: Object116
+    2300472: Object117
+    2300474: Object118
+    2300476: Object119
+    2300478: Object120
+    2300480: Object121
+    2300482: Object122
+    2300484: Object123
+    2300486: Object124
+    2300488: Object125
+    2300490: Object126
+    2300492: Object127
+    2300494: Object128
+    2300496: Object129
+    2300498: Object130
+    2300500: Object131
+    2300502: Object132
+    2300504: Object133
+    2300506: Object134
+    2300508: Object135
+    2300510: Object136
+    2300512: Object137
+    2300514: Object138
+    2300516: Object139
+    2300518: Object140
+    2300520: Object141
+    2300522: Object142
+    2300524: Object143
+    2300526: Object144
+    2300528: Object145
+    2300530: Object146
+    2300532: Object147
+    2300534: Object148
+    2300536: Object149
+    2300538: Object150
+    2300540: Object151
+    2300542: Object152
+    2300544: Object153
+    2300546: Object154
+    2300548: Object155
+    2300550: Object156
+    2300552: Object157
+    2300554: Object158
+    2300556: Object159
+    2300558: Object160
+    2300560: Object161
+    2300562: Object162
+    2300564: Object163
+    2300566: Object164
+    2300568: Object165
+    2300570: Object166
+    2300572: Object167
+    2300574: Object168
+    2300576: Object169
+    2300578: Object170
+    2300580: Object171
+    2300582: Object172
+    2300584: Object173
+    2300586: Object174
+    2300588: Object175
+    2300590: Object176
+    2300592: Object177
+    2300594: Object178
+    2300596: Object179
+    2300598: Object180
+    2300600: Object181
+    2300602: Object182
+    2300604: Object183
+    2300606: Object184
+    2300608: Object185
+    2300610: Object186
+    2300612: Object187
+    2300614: Object188
+    2300616: Object189
+    2300618: Object190
+    2300620: Object191
+    2300622: Object192
+    2300624: Object193
+    2300626: Object194
+    2300628: Object195
+    2300630: Object196
+    2300632: Object197
+    2300634: Object198
+    2300636: Object199
+    2300638: Object200
+    2300640: Object201
+    2300642: Object202
+    2300644: Object203
+    2300646: Object204
+    2300648: Wall back001
+    2300650: Wall back002
+    2300652: Wall back003
+    2300654: Wall back004
+    2300656: Wall front001
+    2300658: Wall front002
+    2300660: Wall front003
+    2300662: Wall front004
+    3300000: Box055
+    3300002: Box056
+    3300004: Box057
+    3300006: Box058
+    3300008: Box059
+    3300010: Box060
+    3300012: Box061
+    3300014: Box062
+    3300016: Box063
+    3300018: Box064
+    3300020: Box065
+    3300022: Box066
+    3300024: Box067
+    3300026: Box068
+    3300028: Box069
+    3300030: Box070
+    3300032: Box071
+    3300034: Box072
+    3300036: Box073
+    3300038: Box074
+    3300040: Box075
+    3300042: Box076
+    3300044: Box077
+    3300046: Box078
+    3300048: Box079
+    3300050: Box080
+    3300052: Box081
+    3300054: Box082
+    3300056: Box083
+    3300058: Box084
+    3300060: Box085
+    3300062: Box086
+    3300064: Box087
+    3300066: Box088
+    3300068: Box089
+    3300070: Box090
+    3300072: Box091
+    3300074: Box092
+    3300076: Box093
+    3300078: Box094
+    3300080: Box095
+    3300082: Box096
+    3300084: Box097
+    3300086: Box098
+    3300088: Box099
+    3300090: Box100
+    3300092: Box101
+    3300094: Box102
+    3300096: Box103
+    3300098: Box104
+    3300100: Box105
+    3300102: Box106
+    3300104: Box107
+    3300106: Box108
+    3300108: Box109
+    3300110: Box110
+    3300112: Box111
+    3300114: Box112
+    3300116: Box113
+    3300118: Box114
+    3300120: Box115
+    3300122: Box116
+    3300124: Box117
+    3300126: Box118
+    3300128: Box119
+    3300130: Box120
+    3300132: Box121
+    3300134: Box122
+    3300136: Box123
+    3300138: Box124
+    3300140: Box125
+    3300142: Box126
+    3300144: Box127
+    3300146: Box128
+    3300148: Box129
+    3300150: Box130
+    3300152: Box131
+    3300154: Box132
+    3300156: Box133
+    3300158: Box134
+    3300160: Box135
+    3300162: Box136
+    3300164: Box137
+    3300166: Box138
+    3300168: Box139
+    3300170: Box140
+    3300172: Box141
+    3300174: Box142
+    3300176: Box143
+    3300178: Box144
+    3300180: Box145
+    3300182: Box146
+    3300184: Box147
+    3300186: Box148
+    3300188: Box149
+    3300190: Box150
+    3300192: Box151
+    3300194: Door frame001
+    3300196: Door frame002
+    3300198: Door frame003
+    3300200: Door frame004
+    3300202: Door frame006
+    3300204: Door frame007
+    3300206: Door frame008
+    3300208: Door frame009
+    3300210: Door frame010
+    3300212: Door frame011
+    3300214: Door frame012
+    3300216: Door frame013
+    3300218: Door frame014
+    3300220: Door frame015
+    3300222: Door frame016
+    3300224: Door left001
+    3300226: Door left002
+    3300228: Door left003
+    3300230: Door left004
+    3300232: Door right001
+    3300234: Door right002
+    3300236: Door right003
+    3300238: Door right004
+    3300240: Object001
+    3300242: Object002
+    3300244: Object003
+    3300246: Object004
+    3300248: Object005
+    3300250: Object006
+    3300252: Object007
+    3300254: Object008
+    3300256: Object009
+    3300258: Object010
+    3300260: Object011
+    3300262: Object012
+    3300264: Object013
+    3300266: Object014
+    3300268: Object015
+    3300270: Object016
+    3300272: Object017
+    3300274: Object018
+    3300276: Object019
+    3300278: Object020
+    3300280: Object021
+    3300282: Object022
+    3300284: Object023
+    3300286: Object024
+    3300288: Object025
+    3300290: Object026
+    3300292: Object027
+    3300294: Object028
+    3300296: Object029
+    3300298: Object030
+    3300300: Object031
+    3300302: Object032
+    3300304: Object033
+    3300306: Object034
+    3300308: Object035
+    3300310: Object036
+    3300312: Object037
+    3300314: Object038
+    3300316: Object039
+    3300318: Object040
+    3300320: Object041
+    3300322: Object042
+    3300324: Object043
+    3300326: Object044
+    3300328: Object045
+    3300330: Object046
+    3300332: Object047
+    3300334: Object048
+    3300336: Object049
+    3300338: Object050
+    3300340: Object051
+    3300342: Object052
+    3300344: Object053
+    3300346: Object054
+    3300348: Object055
+    3300350: Object056
+    3300352: Object057
+    3300354: Object058
+    3300356: Object059
+    3300358: Object060
+    3300360: Object061
+    3300362: Object062
+    3300364: Object063
+    3300366: Object064
+    3300368: Object065
+    3300370: Object066
+    3300372: Object067
+    3300374: Object068
+    3300376: Object069
+    3300378: Object070
+    3300380: Object071
+    3300382: Object072
+    3300384: Object073
+    3300386: Object074
+    3300388: Object075
+    3300390: Object076
+    3300392: Object077
+    3300394: Object078
+    3300396: Object079
+    3300398: Object080
+    3300400: Object081
+    3300402: Object082
+    3300404: Object083
+    3300406: Object084
+    3300408: Object085
+    3300410: Object086
+    3300412: Object087
+    3300414: Object088
+    3300416: Object089
+    3300418: Object090
+    3300420: Object091
+    3300422: Object092
+    3300424: Object093
+    3300426: Object094
+    3300428: Object095
+    3300430: Object096
+    3300432: Object097
+    3300434: Object098
+    3300436: Object099
+    3300438: Object100
+    3300440: Object101
+    3300442: Object102
+    3300444: Object103
+    3300446: Object104
+    3300448: Object105
+    3300450: Object106
+    3300452: Object107
+    3300454: Object108
+    3300456: Object109
+    3300458: Object110
+    3300460: Object111
+    3300462: Object112
+    3300464: Object113
+    3300466: Object114
+    3300468: Object115
+    3300470: Object116
+    3300472: Object117
+    3300474: Object118
+    3300476: Object119
+    3300478: Object120
+    3300480: Object121
+    3300482: Object122
+    3300484: Object123
+    3300486: Object124
+    3300488: Object125
+    3300490: Object126
+    3300492: Object127
+    3300494: Object128
+    3300496: Object129
+    3300498: Object130
+    3300500: Object131
+    3300502: Object132
+    3300504: Object133
+    3300506: Object134
+    3300508: Object135
+    3300510: Object136
+    3300512: Object137
+    3300514: Object138
+    3300516: Object139
+    3300518: Object140
+    3300520: Object141
+    3300522: Object142
+    3300524: Object143
+    3300526: Object144
+    3300528: Object145
+    3300530: Object146
+    3300532: Object147
+    3300534: Object148
+    3300536: Object149
+    3300538: Object150
+    3300540: Object151
+    3300542: Object152
+    3300544: Object153
+    3300546: Object154
+    3300548: Object155
+    3300550: Object156
+    3300552: Object157
+    3300554: Object158
+    3300556: Object159
+    3300558: Object160
+    3300560: Object161
+    3300562: Object162
+    3300564: Object163
+    3300566: Object164
+    3300568: Object165
+    3300570: Object166
+    3300572: Object167
+    3300574: Object168
+    3300576: Object169
+    3300578: Object170
+    3300580: Object171
+    3300582: Object172
+    3300584: Object173
+    3300586: Object174
+    3300588: Object175
+    3300590: Object176
+    3300592: Object177
+    3300594: Object178
+    3300596: Object179
+    3300598: Object180
+    3300600: Object181
+    3300602: Object182
+    3300604: Object183
+    3300606: Object184
+    3300608: Object185
+    3300610: Object186
+    3300612: Object187
+    3300614: Object188
+    3300616: Object189
+    3300618: Object190
+    3300620: Object191
+    3300622: Object192
+    3300624: Object193
+    3300626: Object194
+    3300628: Object195
+    3300630: Object196
+    3300632: Object197
+    3300634: Object198
+    3300636: Object199
+    3300638: Object200
+    3300640: Object201
+    3300642: Object202
+    3300644: Object203
+    3300646: Object204
+    3300648: Wall back001
+    3300650: Wall back002
+    3300652: Wall back003
+    3300654: Wall back004
+    3300656: Wall front001
+    3300658: Wall front002
+    3300660: Wall front003
+    3300662: Wall front004
+    4300000: Object204
+    4300002: Object102
+    4300004: Box055
+    4300006: Door frame001
+    4300008: Door left001
+    4300010: Door right001
+    4300012: Wall back001
+    4300014: Wall front001
+    4300016: Box056
+    4300018: Door frame002
+    4300020: Door left002
+    4300022: Door right002
+    4300024: Wall back002
+    4300026: Wall front002
+    4300028: Box057
+    4300030: Door frame003
+    4300032: Door left003
+    4300034: Door right003
+    4300036: Wall back003
+    4300038: Wall front003
+    4300040: Box058
+    4300042: Door frame004
+    4300044: Door left004
+    4300046: Door right004
+    4300048: Wall back004
+    4300050: Wall front004
+    4300052: Door frame006
+    4300054: Door frame007
+    4300056: Door frame008
+    4300058: Door frame009
+    4300060: Door frame010
+    4300062: Door frame011
+    4300064: Door frame012
+    4300066: Door frame013
+    4300068: Door frame014
+    4300070: Door frame015
+    4300072: Door frame016
+    4300074: Object001
+    4300076: Object002
+    4300078: Object003
+    4300080: Object004
+    4300082: Object005
+    4300084: Object006
+    4300086: Object007
+    4300088: Object008
+    4300090: Object009
+    4300092: Object010
+    4300094: Object011
+    4300096: Object012
+    4300098: Object013
+    4300100: Object014
+    4300102: Object015
+    4300104: Object016
+    4300106: Object017
+    4300108: Object018
+    4300110: Object019
+    4300112: Object020
+    4300114: Object021
+    4300116: Object022
+    4300118: Object023
+    4300120: Object024
+    4300122: Object025
+    4300124: Object026
+    4300126: Object027
+    4300128: Object028
+    4300130: Object029
+    4300132: Object030
+    4300134: Object031
+    4300136: Object032
+    4300138: Object033
+    4300140: Object034
+    4300142: Object035
+    4300144: Object036
+    4300146: Object037
+    4300148: Object038
+    4300150: Object039
+    4300152: Object040
+    4300154: Object041
+    4300156: Object042
+    4300158: Object043
+    4300160: Object044
+    4300162: Object045
+    4300164: Object046
+    4300166: Object047
+    4300168: Object048
+    4300170: Object049
+    4300172: Object050
+    4300174: Object051
+    4300176: Object052
+    4300178: Object053
+    4300180: Object054
+    4300182: Object055
+    4300184: Object056
+    4300186: Object057
+    4300188: Object058
+    4300190: Object059
+    4300192: Object060
+    4300194: Object061
+    4300196: Object062
+    4300198: Object063
+    4300200: Object064
+    4300202: Object065
+    4300204: Object066
+    4300206: Object067
+    4300208: Object068
+    4300210: Object069
+    4300212: Object070
+    4300214: Object071
+    4300216: Object072
+    4300218: Object073
+    4300220: Object074
+    4300222: Object075
+    4300224: Object076
+    4300226: Object077
+    4300228: Object078
+    4300230: Object079
+    4300232: Object080
+    4300234: Object081
+    4300236: Object082
+    4300238: Object083
+    4300240: Object084
+    4300242: Object085
+    4300244: Object086
+    4300246: Object087
+    4300248: Object088
+    4300250: Object089
+    4300252: Object090
+    4300254: Object091
+    4300256: Object092
+    4300258: Object093
+    4300260: Object094
+    4300262: Object095
+    4300264: Object096
+    4300266: Object097
+    4300268: Object098
+    4300270: Object099
+    4300272: Object100
+    4300274: Object101
+    4300276: Object103
+    4300278: Object104
+    4300280: Object105
+    4300282: Object106
+    4300284: Object107
+    4300286: Object108
+    4300288: Object109
+    4300290: Object110
+    4300292: Object111
+    4300294: Object112
+    4300296: Object113
+    4300298: Object114
+    4300300: Object115
+    4300302: Object116
+    4300304: Object117
+    4300306: Object118
+    4300308: Object119
+    4300310: Object120
+    4300312: Object121
+    4300314: Object122
+    4300316: Object123
+    4300318: Object124
+    4300320: Object125
+    4300322: Object126
+    4300324: Object127
+    4300326: Object128
+    4300328: Object129
+    4300330: Object130
+    4300332: Object131
+    4300334: Object132
+    4300336: Object133
+    4300338: Object134
+    4300340: Object135
+    4300342: Object136
+    4300344: Object137
+    4300346: Object138
+    4300348: Object139
+    4300350: Object140
+    4300352: Object141
+    4300354: Object142
+    4300356: Object143
+    4300358: Object144
+    4300360: Object145
+    4300362: Object146
+    4300364: Object147
+    4300366: Object148
+    4300368: Object149
+    4300370: Object150
+    4300372: Object151
+    4300374: Object152
+    4300376: Object153
+    4300378: Object154
+    4300380: Object155
+    4300382: Object156
+    4300384: Object157
+    4300386: Object158
+    4300388: Object159
+    4300390: Object160
+    4300392: Object161
+    4300394: Object162
+    4300396: Object163
+    4300398: Object164
+    4300400: Object165
+    4300402: Object166
+    4300404: Object167
+    4300406: Object168
+    4300408: Object169
+    4300410: Object170
+    4300412: Object171
+    4300414: Object172
+    4300416: Object173
+    4300418: Object174
+    4300420: Object175
+    4300422: Object176
+    4300424: Object177
+    4300426: Object178
+    4300428: Object179
+    4300430: Object180
+    4300432: Object181
+    4300434: Object182
+    4300436: Object183
+    4300438: Object184
+    4300440: Object185
+    4300442: Object186
+    4300444: Object187
+    4300446: Object188
+    4300448: Object189
+    4300450: Object190
+    4300452: Object191
+    4300454: Object192
+    4300456: Object193
+    4300458: Object194
+    4300460: Object195
+    4300462: Object196
+    4300464: Object197
+    4300466: Object198
+    4300468: Object199
+    4300470: Object200
+    4300472: Object201
+    4300474: Object202
+    4300476: Object203
+    4300478: Box059
+    4300480: Box060
+    4300482: Box061
+    4300484: Box062
+    4300486: Box063
+    4300488: Box064
+    4300490: Box065
+    4300492: Box066
+    4300494: Box067
+    4300496: Box068
+    4300498: Box069
+    4300500: Box070
+    4300502: Box071
+    4300504: Box072
+    4300506: Box073
+    4300508: Box074
+    4300510: Box075
+    4300512: Box076
+    4300514: Box077
+    4300516: Box078
+    4300518: Box079
+    4300520: Box080
+    4300522: Box081
+    4300524: Box082
+    4300526: Box083
+    4300528: Box084
+    4300530: Box085
+    4300532: Box086
+    4300534: Box087
+    4300536: Box088
+    4300538: Box089
+    4300540: Box090
+    4300542: Box091
+    4300544: Box092
+    4300546: Box093
+    4300548: Box094
+    4300550: Box095
+    4300552: Box096
+    4300554: Box097
+    4300556: Box098
+    4300558: Box099
+    4300560: Box100
+    4300562: Box101
+    4300564: Box102
+    4300566: Box103
+    4300568: Box104
+    4300570: Box105
+    4300572: Box106
+    4300574: Box107
+    4300576: Box108
+    4300578: Box109
+    4300580: Box110
+    4300582: Box111
+    4300584: Box112
+    4300586: Box113
+    4300588: Box114
+    4300590: Box115
+    4300592: Box116
+    4300594: Box117
+    4300596: Box118
+    4300598: Box119
+    4300600: Box120
+    4300602: Box121
+    4300604: Box122
+    4300606: Box123
+    4300608: Box124
+    4300610: Box125
+    4300612: Box126
+    4300614: Box127
+    4300616: Box128
+    4300618: Box129
+    4300620: Box130
+    4300622: Box131
+    4300624: Box132
+    4300626: Box133
+    4300628: Box134
+    4300630: Box135
+    4300632: Box136
+    4300634: Box137
+    4300636: Box138
+    4300638: Box139
+    4300640: Box140
+    4300642: Box141
+    4300644: Box142
+    4300646: Box143
+    4300648: Box144
+    4300650: Box145
+    4300652: Box146
+    4300654: Box147
+    4300656: Box148
+    4300658: Box149
+    4300660: Box150
+    4300662: Box151
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door frame
+    second: {fileID: 2100000, guid: 754025771027e624fadc55b6ea214a5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door left
+    second: {fileID: 2100000, guid: 5a1927d7c0e6b054b8697dd7440b1074, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door right
+    second: {fileID: 2100000, guid: 467bc888dd8171c45b7b430e980fbce8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: c41229d07c1f0ad4db8c352b3575443e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 3635a571f3435044fa6b9b7eb81ecb38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall back
+    second: {fileID: 2100000, guid: fa2574028f39bf6489275767638750ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: c41229d07c1f0ad4db8c352b3575443e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof
+    second: {fileID: 2100000, guid: df31cfe30e51dc643b0adf0abdb449ed, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
